@@ -1,0 +1,7 @@
+/* CSSファイルにてフォントを読み込む */
+@font-face {
+  font-family: 'LINESeedJP';
+  src: url('/fonts/LINESeedJP_OTF_Bd.woff2');
+  font-weight: normal;
+  font-style: normal;
+}
